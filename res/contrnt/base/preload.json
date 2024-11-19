@@ -1,0 +1,15 @@
+{
+    "sounds": [
+        "blocks/door_open",
+        "blocks/door_close",
+        "events/pickup"
+    ],
+    "models": [
+        "drop-item"
+    ],
+    "textures": [
+        "misc/moon",
+        "misc/sun",
+        "gui/crosshair"
+    ]
+}
