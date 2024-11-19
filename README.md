@@ -1,9 +1,3 @@
-# ![voxel-core](dev/VoxelCore.png) VoxelCore
-
-## Latest release
-
-- [Download](https://github.com/MihailRis/VoxelEngine-Cpp/releases/latest) | [Скачать](https://github.com/MihailRis/VoxelEngine-Cpp/releases/latest)
-- [Documentation](https://github.com/MihailRis/VoxelEngine-Cpp/blob/release-0.24/doc/en/main-page.md) | [Документация](https://github.com/MihailRis/VoxelEngine-Cpp/blob/release-0.24/doc/ru/main-page.md)
 
 ## Build project in Linux
 
