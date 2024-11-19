@@ -1,0 +1,109 @@
+# Общее
+Yes=Да
+No=Нет
+Ok=Ок
+Cancel=Отмена
+Back=Назад
+Continue=Продолжить
+Add=Добавить
+Version=Версия
+Creator=Автор
+Dependencies=Зависимости
+Description=Описание
+Converting world...=Выполняется конвертация мира...
+Unlimited=Неограниченно
+Chat=Чат
+Console=Консоль
+Log=Лог
+Problems=Проблемы
+Monitor=Мониторинг
+Debug=Отладка
+File=Файл
+
+devtools.traceback=Стек вызовов (от последнего)
+error.pack-not-found=Не удалось найти пакет
+error.dependency-not-found=Используемая зависимость не найдена
+pack.remove-confirm=Удалить весь поставляемый паком/паками контент из мира (безвозвратно)?
+
+# Подсказки
+graphics.gamma.tooltip=Кривая яркости освещения
+graphics.backlight.tooltip=Подсветка, предотвращающая полную темноту
+
+# Меню
+menu.Apply=Применить
+menu.Audio=Звук
+menu.Back to Main Menu=Вернуться в Меню
+menu.Content Error=Ошибка Контента
+menu.Content=Контент
+menu.Continue=Продолжить
+menu.Controls=Управление
+menu.Display=Дисплей
+menu.Graphics=Графика
+menu.missing-content=Отсутствует Контент!
+menu.New World=Новый Мир
+menu.Page not found=Страница не найдена
+menu.Quit=Выход
+menu.Save and Quit to Menu=Сохранить и Выйти в Меню
+menu.Settings=Настройки
+menu.Reset settings=Сбросить настройки
+menu.Contents Menu=Меню контентпаков
+menu.Open data folder=Открыть папку данных
+menu.Open content folder=Открыть папку [content]
+
+world.Seed=Зерно
+world.Name=Название
+world.World generator=Генератор мира
+world.generators.default=По-умолчанию
+world.generators.flat=Плоский
+world.Create World=Создать Мир
+world.convert-request=Есть изменения в индексах! Конвертировать мир?
+world.upgrade-request=Формат мира устарел! Конвертировать мир?
+world.convert-with-loss=Конвертировать мир с потерями?
+world.convert-block-layouts=Есть изменения в полях блоков! Конвертировать мир?
+world.delete-confirm=Удалить мир безвозвратно?
+
+# Настройки
+settings.Ambient=Фон
+settings.Backlight=Подсветка
+settings.Camera Shaking=Тряска Камеры
+settings.Camera Inertia=Инерция Камеры
+settings.Camera FOV Effects=Эффекты поля зрения
+settings.Fog Curve=Кривая Тумана
+settings.FOV=Поле Зрения
+settings.Fullscreen=Полный экран
+settings.Framerate=Частота кадров
+settings.Gamma=Гамма
+settings.Language=Язык
+settings.Load Distance=Дистанция Загрузки
+settings.Load Speed=Скорость Загрузки
+settings.Master Volume=Общая Громкость
+settings.Mouse Sensitivity=Чувствительность Мыши
+settings.Music=Музыка
+settings.Regular Sounds=Обычные Звуки
+settings.UI Sounds=Звуки Интерфейса
+settings.V-Sync=Вертикальная Синхронизация
+settings.Key=Кнопка
+settings.Controls Search Mode=Поиск по привязанной кнопки управления
+settings.Limit Background FPS=Ограничить фоновую частоту кадров
+
+# Управление
+chunks.reload=Перезагрузить Чанки
+devtools.console=Консоль
+movement.forward=Вперёд
+movement.back=Назад
+movement.left=Влево
+movement.right=Вправо
+movement.jump=Прыжок
+movement.sprint=Ускорение
+movement.crouch=Красться
+movement.cheat=Чит
+hud.inventory=Инвентарь
+player.pick=Подобрать Блок
+player.attack=Атаковать
+player.destroy=Сломать
+player.build=Поставить Блок
+player.fast_interaction=Ускоренное взаимодействие
+player.flight=Полёт
+player.drop=Выбросить Предмет
+camera.zoom=Приближение
+camera.mode=Сменить Режим Камеры
